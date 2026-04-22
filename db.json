@@ -1,0 +1,28 @@
+{
+    "cursos": [
+        {
+            "id": 1,
+            "nome": "Desenvolvimento de Sistemas",
+            "disciplinas": ["WEB III", "PAM II", "BD"],
+            "carga-horaria": 1200
+        },
+        {
+            "id": 2,
+            "nome": "MTEC-PI Desenvolvimento de Sistemas",
+            "disciplinas": ["WEB III", "PAM II", "BD"],
+            "carga-horaria": 1200
+        },
+        {
+            "id": 3,
+            "nome": "MTEC-N Informática",
+            "disciplinas": ["Gestão de Sistemas Operacionais", "Programação de Computadores", "Instalação e Manutenção de Computadores"],
+            "carga-horaria": 1200
+        },
+        {
+            "id": 4,
+            "nome": "MTEC-N Informática para Internet",
+            "disciplinas": ["Fundamentos da Informática", "Análise e Projetos WEB", "Computação em Nuvem"],
+            "carga-horaria": 1200
+        }
+    ]
+}
