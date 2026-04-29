@@ -24,5 +24,11 @@
             "disciplinas": ["Fundamentos da Informática", "Análise e Projetos WEB", "Computação em Nuvem"],
             "carga-horaria": 1200
         }
+    ],
+    "professores":[
+        {"id": 1, "nome":"Jean"},
+        {"id": 2, "nome":"Francisco"},
+        {"id": 3, "nome":"Alícia"},
+        {"id": 4, "nome":"Nathane"};
     ]
 }
